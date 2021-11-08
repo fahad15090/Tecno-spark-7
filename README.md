@@ -1,5 +1,5 @@
-# Techno-spark-7 root 
-## Techno spark 7 successfully rooted by @fahad
+# Tecno-spark-7 root 
+## Tecno spark 7 successfully rooted by @fahad
 - This device contain A/B slots partition
 - **⚠️Caution this will you data**
 ## Prerequisite
