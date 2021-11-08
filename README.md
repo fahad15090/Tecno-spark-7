@@ -3,6 +3,7 @@
 - This device contain A/B slots partition
 - **⚠️Caution this will you data**
 ## Prerequisite
+- Pc with adb installed
 - OEM unlocked 
 - Backup data 
 - Also in fastboot ``fastboot flashing unlock`` and some instruction pop-up allow them!
