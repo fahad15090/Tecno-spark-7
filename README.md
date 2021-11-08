@@ -1,7 +1,7 @@
 # Tecno-spark-7 root 
 ## Tecno spark 7 successfully rooted by @fahad
 - This device contain A/B slots partition
-- **⚠️Caution this will you data**
+- **⚠️Caution this will wipe you data**
 ## Prerequisite
 - Pc with adb installed
 - OEM unlocked 
