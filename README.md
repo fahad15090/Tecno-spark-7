@@ -23,4 +23,4 @@
 - Then wipe your data!
 - **Done**
 ## Contact 
-https://wa.link/qrfpk9
+[Contact](https://wa.link/qrfpk9)
