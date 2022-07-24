@@ -23,4 +23,4 @@
 - Then wipe your data!
 - **Done**
 ## Contact 
-- +923484715090
+https://wa.link/qrfpk9
