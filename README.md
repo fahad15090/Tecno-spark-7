@@ -10,7 +10,7 @@
 - If you don't have the bootloader unlocked type "fastboot flashing unlock" and follow the instructions
 
 ## Steps
-- Download files provided top here
+- Download files provided here
 - save to your pc adb root 
 - Put your device in fastboot 
 - open terminal adb on your pc 
