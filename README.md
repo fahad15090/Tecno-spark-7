@@ -1,6 +1,6 @@
 *Disclaimer ⚠️ this test on KF6K so if your model is different first contact then try!*
 # Tecno-spark-7 KF6K root 
-## Tecno spark 7 successfully rooted by @fahad
+## Tecno spark 7 successfully rooted
 - This device contains A/B slots partition
 - **⚠️Caution this will wipe your data**
 ## Prerequisites
